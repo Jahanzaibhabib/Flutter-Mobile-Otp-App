@@ -1,4 +1,4 @@
-# health_app
+# Mobile Otp Verification App
 
 A new Flutter project.
 
