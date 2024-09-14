@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159911075365",
+    "project_id": "phone-firebase-13d60",
+    "storage_bucket": "phone-firebase-13d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159911075365:android:90849d16594f9f604e69cc",
+        "android_client_info": {
+          "package_name": "com.example.health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyO7-QYl3lznCnP5TF0PCPTTMSK7aa37U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
